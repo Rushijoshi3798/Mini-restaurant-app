@@ -1,0 +1,20 @@
+{
+    "signup": [
+        {
+            "user_name": "xxxyy",
+            "email": "abc@gmail.com",
+            "password": "1230"
+        }
+    ],
+    "login": [
+        {
+            "email": "xxxdd",
+            "password": "1230"
+        }
+    ],
+    "products": [
+        {
+            "name": "denim jeans"
+        }
+    ]
+}
